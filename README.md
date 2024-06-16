@@ -9,9 +9,6 @@
 ```shell
 windows10
 python3.11
-
-matplotlib
-networkx
 ```
 
 ## 算法流程
