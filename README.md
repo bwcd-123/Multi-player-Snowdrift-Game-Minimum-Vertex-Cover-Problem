@@ -21,6 +21,6 @@ python3.11
 
 ## 结果展示
 
-![image](figure\result.png)
+![image](figure/result.png)
 
 由图可知，当r值小于 $1/k_{max}$ 时，合作节点集合是极小节点覆盖。而当r值大于 $1/k_{max}$ 时，合作节点集合不一定是极小节点覆盖。
